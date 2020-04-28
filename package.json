@@ -1,0 +1,32 @@
+{
+  "name": "share-chat-discordjs",
+  "version": "1.0.0",
+  "description": "Share messages with multiple channels.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InkoHX/share-chat-discordjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InkoHX/share-chat-discordjs/issues"
+  },
+  "homepage": "https://github.com/InkoHX/share-chat-discordjs#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "proxy-deep": "^2.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
