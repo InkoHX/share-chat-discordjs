@@ -4,12 +4,12 @@ Share messages with multiple channels.
 
 ## How to use
 
-Set a global channel with a command and send a message.
+Specify the channel you want to share the message with and send the message.
 
 ## Commands
 
-- `!setGlobalChannel <channelMentions>`
-- `!deleteGlobalChannel <channelMentions>`
+- `!setShareChannel <channelMentions>`
+- `!deleteShareChannel <channelMentions>`
 
 ## LICENCE
 
